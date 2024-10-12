@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 27353035))
-API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "5311223486"))
-MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "tmm_support_chat")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "tmm_heroku_world")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "moh_maya_official")
+API_ID = int(getenv("API_ID", 27442556))
+API_HASH = getenv("API_HASH", "e1b2eab5acd342b7279e514813196a72")
+BOT_TOKEN = getenv("BOT_TOKEN", "6990395850:AAGRmm4jxw0B94hUvWZ4u_y_2HSYD-TRkOQ")
+OWNER_ID = int(getenv("OWNER_ID", "6026532749"))
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Yash_607:Yash_607@cluster0.r3s9sbo.mongodb.net/?retryWrites=true&w=majority")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "freeinternetpack02")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "freeinternetpack")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "ERROR_2ND")
 
 # Random Start Images
 IMG = [
